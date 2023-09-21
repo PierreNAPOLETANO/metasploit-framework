@@ -1,0 +1,65 @@
+Final status:
+Process still alive after running test suite
+stdout and stderr:
+DEBUG:root:[*] changing transport to: tcp://127.0.0.1:6001
+DEBUG:root:[*] running method core_negotiate_tlv_encryption
+DEBUG:root:[*] Negotiating TLV encryption
+DEBUG:root:[*] RSA key: 30820122300d06092a864886f70d01010105000382010f003082010a0282010100c286b209df0cacc9818c3629e698347760273e78bb204fe345aac2239f20055ff1ee22c487c7fe48e13c5fbe61687e4ddb85c7cea84c7adc90f2aedd1d5414600df3f3f468b98b2ea082e1f6f7fc084b3b3e84e209eb48bc7326e5d65cae2b8dd34f7123558cecdbc3d61617f73f8a8aa1e314c2e6192ecd1d1bbce46d51bb79a806716aac1d4c21454836ea6edd56cded5178ef1222198657aaf7baa4a7113f03358805aa660529da023a84a17c523c10f682e4305efdb168241922d49852a0b93513f9e1cc80ebfb087e44f388b498fa6bb83adac1ed512e907e64ecc73aa585067d54d998aaf20f37f6cdfac87c5ffbba27c4e436b204d852a07bb11ab9690203010001
+DEBUG:root:[*] AES key: 0xb8fe7aaf21d650d821a0b5c8b0ff513e02a51134c5c6cfb349b8318f2b37b66b
+DEBUG:root:[*] Encrypted AES key: 0x1a7816b6ddb4fd53d06b1e07b17547959aaabe25ecd5340ea904ca5de8762909928e839e103d67cfa4c18790f7a70e243ab8f0d9024573aa56c3f8134fc97dbaaa645e04a2d2d8c585f629ca783f6357c3f543426859dda493434ab8ed3880ae50766cec33e5238beb11eb0eb25861e9dea50b10241eba91b403ddaa53c15aecee0ba850b2c23122d0f91bb5d13190e7b2d86c2095aaf867df10e0245a35c370324582b21bdd8374e5788845e7133329f31b50ccf38733f96c025623481ff4bc00f6008734ceae8efdfe4df1a683ff45b8967a71bc2e3deeb9fbd8a693108556f2d9de535c51256ca62d71f7f17affcd7d29b5e5a3fdc68fc5ef045cda2c284e
+DEBUG:root:[*] TLV encryption sorted
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_session_guid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_loadlib
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_fs_getwd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_getuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_sysinfo
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_uuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_interfaces
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_routes
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_native_arch
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!malloc
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_process_getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!calloc
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!inet_ntop
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!strcat
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api_multi
+DEBUG:root:[*] railgun calling: libc.dylib!getpid
+DEBUG:root:[*] railgun calling: libc.dylib!strcat
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_process_getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_memwrite
+DEBUG:root:[*] railgun writing 128 bytes to 0x0x7fdc734348d0
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_memread
+DEBUG:root:[*] railgun reading 128 bytes from 0x0x7fdc734348d0
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!free
+DEBUG:root:[*] sending response packet

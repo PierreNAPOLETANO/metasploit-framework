@@ -1,0 +1,797 @@
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 10, cb 0x7f6e190dcb6a, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 13, cb 0x7f6e190dcb1d, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 22, cb 0x7f6e190dcac1, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 11, cb 0x7f6e190dca82, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 21, cb 0x7f6e190dca21, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 16, cb 0x7f6e190dc919, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 12, cb 0x7f6e190dc604, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 23, cb 0x7f6e190dc5d4, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 4, cb 0x7f6e190db9dc, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 2, cb 0x7f6e190dc3aa, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 6, cb 0x7f6e190dc305, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 7, cb 0x7f6e190dc278, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 5, cb 0x7f6e190dc179, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 8, cb 0x7f6e190dc0a2, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1, cb 0x7f6e190dc03b, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 3, cb 0x7f6e190dc48d, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1001, cb 0x7f6e190e589b, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1004, cb 0x7f6e190e2d5b, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1006, cb 0x7f6e190e584f, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1007, cb 0x7f6e190e2e05, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1005, cb 0x7f6e190e22f0, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1002, cb 0x7f6e190e52b0, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1008, cb 0x7f6e190e525a, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1011, cb 0x7f6e190e2ccc, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1003, cb 0x7f6e190e2d1e, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1009, cb 0x7f6e190e51d9, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1013, cb 0x7f6e190e519d, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1014, cb 0x7f6e190e235c, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1016, cb 0x7f6e190e2c8f, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1010, cb 0x7f6e190e230b, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1015, cb 0x7f6e190e2326, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1026, cb 0x7f6e190e53e6, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1019, cb 0x7f6e190e398c, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1022, cb 0x7f6e190e3c31, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1017, cb 0x7f6e190e3e99, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1023, cb 0x7f6e190e3eb3, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1018, cb 0x7f6e190e3c71, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1021, cb 0x7f6e190e3ed0, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1020, cb 0x7f6e190e2341, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1024, cb 0x7f6e190e576c, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1025, cb 0x7f6e190e5751, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1052, cb 0x7f6e190e4753, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1055, cb 0x7f6e190e5557, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1059, cb 0x7f6e190e4833, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1056, cb 0x7f6e190e48f0, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1071, cb 0x7f6e190e4b6a, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1067, cb 0x7f6e190e55a2, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1068, cb 0x7f6e190e5698, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1069, cb 0x7f6e190e4cad, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1077, cb 0x7f6e190e57d5, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1071, cb 0x7f6e190e4b6a, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1072, cb 0x7f6e190e4c38, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1070, cb 0x7f6e190e5787, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1095, cb 0x7f6e190e22e6, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1118, cb 0x7f6e190eacaf, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1119, cb 0x7f6e190e67eb, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1083, cb 0x7f6e190e4fe7, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1112, cb 0x7f6e190eab4a, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1113, cb 0x7f6e190eaa5a, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1114, cb 0x7f6e190eaaca, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1111, cb 0x7f6e190ea6e1, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1117, cb 0x7f6e190ea555, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1115, cb 0x7f6e190ea5fb, arg 0x640040
+[09-21-2023 09:47:15.113s] [tlv.c:498] Registering command 1116, cb 0x7f6e190ea666, arg 0x640040
+[09-21-2023 09:47:15.113s] [mettle.c:75] Heartbeat
+[09-21-2023 09:47:15.167s] [tlv.c:525] handler for 16: 0x642a40
+[09-21-2023 09:47:15.167s] [tlv.c:566] processing command: 16 id: '45131069884361517801484999712900'
+[09-21-2023 09:47:15.171s] [tlv.c:525] handler for 10: 0x6425e0
+[09-21-2023 09:47:15.171s] [tlv.c:566] processing command: 10 id: '41732730692764414832135156850375'
+[09-21-2023 09:47:15.174s] [tlv.c:525] handler for 10: 0x6425e0
+[09-21-2023 09:47:15.174s] [tlv.c:566] processing command: 10 id: '88298185843065784428074138821895'
+[09-21-2023 09:47:15.190s] [tlv.c:525] handler for 1008: 0x6430a0
+[09-21-2023 09:47:15.190s] [tlv.c:566] processing command: 1008 id: '81927849221295546994915438079408'
+[09-21-2023 09:47:15.192s] [tlv.c:525] handler for 1055: 0x643e80
+[09-21-2023 09:47:15.192s] [tlv.c:566] processing command: 1055 id: '69500145294943226682129449715620'
+[09-21-2023 09:47:15.193s] [tlv.c:525] handler for 1059: 0x643ee0
+[09-21-2023 09:47:15.193s] [tlv.c:566] processing command: 1059 id: '14465409763098224740490732494135'
+[09-21-2023 09:47:15.196s] [tlv.c:525] handler for 1019: 0x643ac0
+[09-21-2023 09:47:15.196s] [tlv.c:566] processing command: 1019 id: '76230836745229272327500960857513'
+[09-21-2023 09:47:15.196s] [stdapi/net/config.c:46] lo: 127.0.0.1/8
+[09-21-2023 09:47:15.196s] [stdapi/net/config.c:46] lo: ::1
+[09-21-2023 09:47:15.196s] [stdapi/net/config.c:46] eth0: 10.1.0.196/16
+[09-21-2023 09:47:15.196s] [stdapi/net/config.c:46] eth0: fe80::6245:bdff:fe00:e4/64
+[09-21-2023 09:47:15.196s] [stdapi/net/config.c:46] docker0: 172.17.0.1/16
+[09-21-2023 09:47:15.198s] [tlv.c:525] handler for 1022: 0x643b20
+[09-21-2023 09:47:15.198s] [tlv.c:566] processing command: 1022 id: '48613786931456260223310247019670'
+[09-21-2023 09:47:15.409s] [tlv.c:525] handler for 1008: 0x6430a0
+[09-21-2023 09:47:15.409s] [tlv.c:566] processing command: 1008 id: '09383110987442384806896416544367'
+[09-21-2023 09:47:15.411s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.411s] [tlv.c:566] processing command: 1052 id: '06809832414048476407613441505978'
+[09-21-2023 09:47:15.412s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.412s] [tlv.c:566] processing command: 1052 id: '57821651028332379813506959399612'
+[09-21-2023 09:47:15.414s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.414s] [tlv.c:566] processing command: 1016 id: '31393550392271932948000411705005'
+[09-21-2023 09:47:15.416s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.416s] [tlv.c:566] processing command: 1016 id: '13655034980344896647680794039428'
+[09-21-2023 09:47:15.418s] [tlv.c:525] handler for 1014: 0x643280
+[09-21-2023 09:47:15.418s] [tlv.c:566] processing command: 1014 id: '76571755130215495663842561199001'
+[09-21-2023 09:47:15.419s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.419s] [tlv.c:566] processing command: 1052 id: '99650036598064596267203109024152'
+[09-21-2023 09:47:15.420s] [tlv.c:525] handler for 1001: 0x642e60
+[09-21-2023 09:47:15.420s] [tlv.c:566] processing command: 1001 id: '52733651572683209082465213607047'
+[09-21-2023 09:47:15.422s] [tlv.c:525] handler for 1008: 0x6430a0
+[09-21-2023 09:47:15.422s] [tlv.c:566] processing command: 1008 id: '63356959605483297048303911492394'
+[09-21-2023 09:47:15.424s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.424s] [tlv.c:566] processing command: 1016 id: '39231471948845013419899204136740'
+[09-21-2023 09:47:15.431s] [tlv.c:525] handler for 1011: 0x643100
+[09-21-2023 09:47:15.431s] [tlv.c:566] processing command: 1011 id: '00511458215933919520463431145087'
+[09-21-2023 09:47:15.434s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.434s] [tlv.c:566] processing command: 1052 id: '10250814562086034979251204875226'
+[09-21-2023 09:47:15.435s] [tlv.c:525] handler for 1001: 0x642e60
+[09-21-2023 09:47:15.435s] [tlv.c:566] processing command: 1001 id: '88666163794131545954004630923809'
+[09-21-2023 09:47:15.437s] [tlv.c:525] handler for 1008: 0x6430a0
+[09-21-2023 09:47:15.437s] [tlv.c:566] processing command: 1008 id: '06886175705114500586965169992729'
+[09-21-2023 09:47:15.438s] [tlv.c:525] handler for 1008: 0x6430a0
+[09-21-2023 09:47:15.438s] [tlv.c:566] processing command: 1008 id: '05481869593686674137088158229916'
+[09-21-2023 09:47:15.457s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.457s] [tlv.c:566] processing command: 4 id: '74967694923622827263207951087368'
+[09-21-2023 09:47:15.457s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.543s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.543s] [tlv.c:566] processing command: 8 id: '71729925288515814160428887480665'
+[09-21-2023 09:47:15.544s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.544s] [tlv.c:566] processing command: 1 id: '36881134599151892529206607138373'
+[09-21-2023 09:47:15.546s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.546s] [tlv.c:566] processing command: 1016 id: '51473995852050111001058179093823'
+[09-21-2023 09:47:15.548s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.548s] [tlv.c:566] processing command: 4 id: '30684314493437191371846945838428'
+[09-21-2023 09:47:15.548s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.549s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.549s] [tlv.c:566] processing command: 5 id: '41877961135220123919074620659713'
+[09-21-2023 09:47:15.580s] [tlv.c:525] handler for 2: 0x642bc0
+[09-21-2023 09:47:15.580s] [tlv.c:566] processing command: 2 id: '09494108316124617961983659285119'
+[09-21-2023 09:47:15.581s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.581s] [tlv.c:566] processing command: 5 id: '19337770422972697169945230627375'
+[09-21-2023 09:47:15.610s] [tlv.c:525] handler for 2: 0x642bc0
+[09-21-2023 09:47:15.610s] [tlv.c:566] processing command: 2 id: '56209367144838499570595375417207'
+[09-21-2023 09:47:15.611s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.611s] [tlv.c:566] processing command: 1 id: '19821604688295048423964243271762'
+[09-21-2023 09:47:15.613s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.613s] [tlv.c:566] processing command: 1016 id: '00060915770977877069489916600459'
+[09-21-2023 09:47:15.615s] [tlv.c:525] handler for 1004: 0x642ec0
+[09-21-2023 09:47:15.615s] [tlv.c:566] processing command: 1004 id: '67734435608130110285122345257093'
+[09-21-2023 09:47:15.617s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.617s] [tlv.c:566] processing command: 1016 id: '92109020338138117048004169893434'
+[09-21-2023 09:47:15.619s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.619s] [tlv.c:566] processing command: 4 id: '10466270903197993350004254046282'
+[09-21-2023 09:47:15.619s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.620s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.620s] [tlv.c:566] processing command: 8 id: '45998460629615943995294300592860'
+[09-21-2023 09:47:15.621s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.621s] [tlv.c:566] processing command: 1 id: '36877804527249515897847706617244'
+[09-21-2023 09:47:15.622s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.622s] [tlv.c:566] processing command: 4 id: '38009184121901542859872851918616'
+[09-21-2023 09:47:15.622s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.623s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.623s] [tlv.c:566] processing command: 8 id: '06214234299659679554874860840423'
+[09-21-2023 09:47:15.624s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.624s] [tlv.c:566] processing command: 1 id: '16465921177355788111857580226522'
+[09-21-2023 09:47:15.625s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.625s] [tlv.c:566] processing command: 4 id: '35988066432348119544637966319082'
+[09-21-2023 09:47:15.625s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.626s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.626s] [tlv.c:566] processing command: 5 id: '37204323663760404015724476355256'
+[09-21-2023 09:47:15.627s] [tlv.c:525] handler for 2: 0x642bc0
+[09-21-2023 09:47:15.627s] [tlv.c:566] processing command: 2 id: '11464195720243010867580107880063'
+[09-21-2023 09:47:15.628s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.628s] [tlv.c:566] processing command: 1 id: '86632189219367434774272193261285'
+[09-21-2023 09:47:15.628s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.628s] [tlv.c:566] processing command: 1016 id: '32396737921661742594970139948012'
+[09-21-2023 09:47:15.630s] [tlv.c:525] handler for 1004: 0x642ec0
+[09-21-2023 09:47:15.630s] [tlv.c:566] processing command: 1004 id: '76391936784678295047969450502526'
+[09-21-2023 09:47:15.633s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.633s] [tlv.c:566] processing command: 1052 id: '88483181975499813734974708222119'
+[09-21-2023 09:47:15.635s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.635s] [tlv.c:566] processing command: 1052 id: '89968681534597518618331689409020'
+[09-21-2023 09:47:15.637s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.637s] [tlv.c:566] processing command: 1052 id: '54809769323643661390931378589965'
+[09-21-2023 09:47:15.638s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.638s] [tlv.c:566] processing command: 1052 id: '82571048872466068436159262791938'
+[09-21-2023 09:47:15.640s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.640s] [tlv.c:566] processing command: 1052 id: '26269305991789986472386826369858'
+[09-21-2023 09:47:15.642s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.642s] [tlv.c:566] processing command: 1052 id: '67947289241861336297449954110873'
+[09-21-2023 09:47:15.644s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.644s] [tlv.c:566] processing command: 1052 id: '58803514086386207482530919428192'
+[09-21-2023 09:47:15.646s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:15.646s] [tlv.c:566] processing command: 1052 id: '19484049135115025043451458585046'
+[09-21-2023 09:47:15.648s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.648s] [tlv.c:566] processing command: 1016 id: '82908685853992409259134798531737'
+[09-21-2023 09:47:15.650s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.650s] [tlv.c:566] processing command: 1016 id: '36991695828841093274380865525688'
+[09-21-2023 09:47:15.653s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.653s] [tlv.c:566] processing command: 1016 id: '14978885800782447226453852557158'
+[09-21-2023 09:47:15.654s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.654s] [tlv.c:566] processing command: 1016 id: '27252945052801883391519118309768'
+[09-21-2023 09:47:15.656s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.656s] [tlv.c:566] processing command: 1016 id: '12912894337948587508261434761341'
+[09-21-2023 09:47:15.658s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.658s] [tlv.c:566] processing command: 1016 id: '92450655880917954816080405786374'
+[09-21-2023 09:47:15.660s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.660s] [tlv.c:566] processing command: 1016 id: '04694977523795310827563847124526'
+[09-21-2023 09:47:15.663s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.663s] [tlv.c:566] processing command: 1016 id: '04294325699907873371486607777266'
+[09-21-2023 09:47:15.665s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.665s] [tlv.c:566] processing command: 4 id: '48479442613128350619764374710379'
+[09-21-2023 09:47:15.665s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.666s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.666s] [tlv.c:566] processing command: 8 id: '14359866580318432905352197400602'
+[09-21-2023 09:47:15.667s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.667s] [tlv.c:566] processing command: 1 id: '86499904807148257936041667825277'
+[09-21-2023 09:47:15.668s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.668s] [tlv.c:566] processing command: 1016 id: '89275728576055539548818254231328'
+[09-21-2023 09:47:15.670s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.670s] [tlv.c:566] processing command: 4 id: '93067507884078552122256833323368'
+[09-21-2023 09:47:15.670s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.671s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.671s] [tlv.c:566] processing command: 5 id: '78603687588943969105806449715873'
+[09-21-2023 09:47:15.672s] [tlv.c:525] handler for 2: 0x642bc0
+[09-21-2023 09:47:15.672s] [tlv.c:566] processing command: 2 id: '69562873393010043866908329152286'
+[09-21-2023 09:47:15.673s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.673s] [tlv.c:566] processing command: 1 id: '80770357371041499894510231030786'
+[09-21-2023 09:47:15.674s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.674s] [tlv.c:566] processing command: 4 id: '42232826686548912585787595492350'
+[09-21-2023 09:47:15.674s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.675s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.675s] [tlv.c:566] processing command: 8 id: '04230662913049316767900505065441'
+[09-21-2023 09:47:15.676s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.676s] [tlv.c:566] processing command: 1 id: '09765652206095706686326743082295'
+[09-21-2023 09:47:15.677s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.677s] [tlv.c:566] processing command: 4 id: '81954061091311526060158793176876'
+[09-21-2023 09:47:15.677s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.679s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.679s] [tlv.c:566] processing command: 5 id: '34979641762909566622817757201326'
+[09-21-2023 09:47:15.680s] [tlv.c:525] handler for 2: 0x642bc0
+[09-21-2023 09:47:15.680s] [tlv.c:566] processing command: 2 id: '81473535292991585041773030124361'
+[09-21-2023 09:47:15.681s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.681s] [tlv.c:566] processing command: 1 id: '03296172413687536289288215390004'
+[09-21-2023 09:47:15.682s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.682s] [tlv.c:566] processing command: 4 id: '14636311315450947557513636237545'
+[09-21-2023 09:47:15.682s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.688s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.688s] [tlv.c:566] processing command: 8 id: '67137363834856101734656167127164'
+[09-21-2023 09:47:15.689s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.689s] [tlv.c:566] processing command: 1 id: '53631573755007703230723018363864'
+[09-21-2023 09:47:15.690s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.690s] [tlv.c:566] processing command: 4 id: '09431277115431160660365272515601'
+[09-21-2023 09:47:15.690s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.691s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.691s] [tlv.c:566] processing command: 5 id: '03534515122347909507239504324689'
+[09-21-2023 09:47:15.692s] [tlv.c:525] handler for 2: 0x642bc0
+[09-21-2023 09:47:15.692s] [tlv.c:566] processing command: 2 id: '59280492218691581557395109618518'
+[09-21-2023 09:47:15.693s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.693s] [tlv.c:566] processing command: 1 id: '79417442827428284963689886401299'
+[09-21-2023 09:47:15.695s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.695s] [tlv.c:566] processing command: 1016 id: '51749050036055462971943302340234'
+[09-21-2023 09:47:15.697s] [tlv.c:525] handler for 1004: 0x642ec0
+[09-21-2023 09:47:15.697s] [tlv.c:566] processing command: 1004 id: '22275970920384660008213971505422'
+[09-21-2023 09:47:15.705s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.705s] [tlv.c:566] processing command: 1016 id: '85426465790125478716811018673622'
+[09-21-2023 09:47:15.708s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.708s] [tlv.c:566] processing command: 1016 id: '12269590118317586245131969447673'
+[09-21-2023 09:47:15.710s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.710s] [tlv.c:566] processing command: 4 id: '18846124769908940184761939431962'
+[09-21-2023 09:47:15.710s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.715s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.715s] [tlv.c:566] processing command: 8 id: '91201741620588564856296562454538'
+[09-21-2023 09:47:15.716s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.716s] [tlv.c:566] processing command: 1 id: '29183554294965493730295308881181'
+[09-21-2023 09:47:15.717s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.717s] [tlv.c:566] processing command: 1016 id: '77590844545854796371347929081679'
+[09-21-2023 09:47:15.720s] [tlv.c:525] handler for 1007: 0x642f80
+[09-21-2023 09:47:15.720s] [tlv.c:566] processing command: 1007 id: '55734654388688807756461163085802'
+[09-21-2023 09:47:15.721s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.721s] [tlv.c:566] processing command: 1016 id: '18086047773164684870610530053088'
+[09-21-2023 09:47:15.724s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.724s] [tlv.c:566] processing command: 1016 id: '67471503531189952308534623371654'
+[09-21-2023 09:47:15.725s] [tlv.c:525] handler for 1004: 0x642ec0
+[09-21-2023 09:47:15.725s] [tlv.c:566] processing command: 1004 id: '24906823714356709540362253186106'
+[09-21-2023 09:47:15.728s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.728s] [tlv.c:566] processing command: 1016 id: '96237111516785450625964437063477'
+[09-21-2023 09:47:15.730s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.730s] [tlv.c:566] processing command: 1016 id: '75009198382736507111896934842079'
+[09-21-2023 09:47:15.732s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.732s] [tlv.c:566] processing command: 1016 id: '88190834315523573862082261174415'
+[09-21-2023 09:47:15.734s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.734s] [tlv.c:566] processing command: 1016 id: '59217216956269298963515013212411'
+[09-21-2023 09:47:15.736s] [tlv.c:525] handler for 1011: 0x643100
+[09-21-2023 09:47:15.736s] [tlv.c:566] processing command: 1011 id: '30697873001559789250845098855736'
+[09-21-2023 09:47:15.738s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.738s] [tlv.c:566] processing command: 1016 id: '27879823299418852202682079633251'
+[09-21-2023 09:47:15.740s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.740s] [tlv.c:566] processing command: 4 id: '15519847342808564044456891786245'
+[09-21-2023 09:47:15.740s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.741s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.741s] [tlv.c:566] processing command: 8 id: '75377088350290581558063781780599'
+[09-21-2023 09:47:15.742s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.742s] [tlv.c:566] processing command: 1 id: '63386073132695466847366867118274'
+[09-21-2023 09:47:15.743s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.744s] [tlv.c:566] processing command: 1016 id: '61561401345779970633850589128528'
+[09-21-2023 09:47:15.746s] [tlv.c:525] handler for 1011: 0x643100
+[09-21-2023 09:47:15.746s] [tlv.c:566] processing command: 1011 id: '54482946571090039080367807525462'
+[09-21-2023 09:47:15.748s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.748s] [tlv.c:566] processing command: 4 id: '09471425865677498962798196591943'
+[09-21-2023 09:47:15.748s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.749s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.749s] [tlv.c:566] processing command: 8 id: '43223735948035834846988640912123'
+[09-21-2023 09:47:15.750s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.750s] [tlv.c:566] processing command: 1 id: '38998108612654844981820865444363'
+[09-21-2023 09:47:15.751s] [tlv.c:525] handler for 1009: 0x6431c0
+[09-21-2023 09:47:15.751s] [tlv.c:566] processing command: 1009 id: '72875838116183224861192268965677'
+[09-21-2023 09:47:15.753s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.753s] [tlv.c:566] processing command: 1016 id: '24035008584828699641098731194796'
+[09-21-2023 09:47:15.755s] [tlv.c:525] handler for 1003: 0x643160
+[09-21-2023 09:47:15.755s] [tlv.c:566] processing command: 1003 id: '79388031011263696500461526775543'
+[09-21-2023 09:47:15.757s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.757s] [tlv.c:566] processing command: 1016 id: '23393853852391494969626603437347'
+[09-21-2023 09:47:15.759s] [tlv.c:525] handler for 1069: 0x6440c0
+[09-21-2023 09:47:15.759s] [tlv.c:566] processing command: 1069 id: '91455673851221157871017378805762'
+[09-21-2023 09:47:15.759s] [stdapi/sys/process.c:339] process_new: command -v ln || which ln && echo HLISKYCB  0x00000043
+[09-21-2023 09:47:15.760s] [process.c:427] child pid 3427 started
+[09-21-2023 09:47:15.760s] [process.c:462] IO started on fds 10 6
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Resource temporarily unavailable
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.761s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.762s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.763s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.764s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.765s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.766s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.767s] [tlv.c:566] processing command: 5 id: '93903899395845628747293498203061'
+[09-21-2023 09:47:15.767s] [stdapi/sys/process.c:249] read 21 bytes for channel
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:285] child pid 3427 exited status 0
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.767s] [process.c:274] nothing on fd 6: Invalid argument
+[09-21-2023 09:47:15.768s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.768s] [tlv.c:566] processing command: 5 id: '85711271969433055164462074901623'
+[09-21-2023 09:47:15.970s] [tlv.c:525] handler for 1068: 0x644060
+[09-21-2023 09:47:15.970s] [tlv.c:566] processing command: 1068 id: '75089784261605013367236572120661'
+[09-21-2023 09:47:15.972s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.972s] [tlv.c:566] processing command: 1016 id: '80736349338284313860623877053889'
+[09-21-2023 09:47:15.975s] [tlv.c:525] handler for 1011: 0x643100
+[09-21-2023 09:47:15.975s] [tlv.c:566] processing command: 1011 id: '53551777884188880121589119632303'
+[09-21-2023 09:47:15.977s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:15.977s] [tlv.c:566] processing command: 1016 id: '01310463920629188711249344264293'
+[09-21-2023 09:47:15.979s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:15.979s] [tlv.c:566] processing command: 4 id: '06592640985399415287321375038548'
+[09-21-2023 09:47:15.979s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:15.980s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:15.980s] [tlv.c:566] processing command: 8 id: '22856923187441725627564800244081'
+[09-21-2023 09:47:15.981s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:15.981s] [tlv.c:566] processing command: 1 id: '00743046278423675818634897392960'
+[09-21-2023 09:47:15.982s] [tlv.c:525] handler for 1069: 0x6440c0
+[09-21-2023 09:47:15.982s] [tlv.c:566] processing command: 1069 id: '36827935616131616333636912583383'
+[09-21-2023 09:47:15.982s] [stdapi/sys/process.c:339] process_new: ln -s $(pwd)/meterpreter-test-dir $(pwd)/meterpreter-test-dir.lnk  0x00000043
+[09-21-2023 09:47:15.982s] [process.c:427] child pid 3430 started
+[09-21-2023 09:47:15.983s] [process.c:462] IO started on fds 10 6
+[09-21-2023 09:47:15.985s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:15.985s] [tlv.c:566] processing command: 5 id: '39521597985283000004809589796076'
+[09-21-2023 09:47:15.985s] [process.c:285] child pid 3430 exited status 0
+[09-21-2023 09:47:15.985s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:15.985s] [process.c:274] nothing on fd 6: Invalid argument
+[09-21-2023 09:47:16.186s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:16.186s] [tlv.c:566] processing command: 5 id: '88342303848034099779732351480051'
+[09-21-2023 09:47:16.389s] [tlv.c:525] handler for 1068: 0x644060
+[09-21-2023 09:47:16.389s] [tlv.c:566] processing command: 1068 id: '17393855857309026363354083688067'
+[09-21-2023 09:47:16.391s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.391s] [tlv.c:566] processing command: 1016 id: '42080731267261186246547729144484'
+[09-21-2023 09:47:16.394s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.394s] [tlv.c:566] processing command: 1016 id: '57444705711582373508133241982719'
+[09-21-2023 09:47:16.396s] [tlv.c:525] handler for 1003: 0x643160
+[09-21-2023 09:47:16.396s] [tlv.c:566] processing command: 1003 id: '79268414371588372334037457815136'
+[09-21-2023 09:47:16.398s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.398s] [tlv.c:566] processing command: 1016 id: '99687367636875549658522171000366'
+[09-21-2023 09:47:16.399s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.399s] [tlv.c:566] processing command: 1016 id: '06002164866639805817907457274679'
+[09-21-2023 09:47:16.401s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.401s] [tlv.c:566] processing command: 1016 id: '68706542992450639450975385550913'
+[09-21-2023 09:47:16.403s] [tlv.c:525] handler for 1003: 0x643160
+[09-21-2023 09:47:16.403s] [tlv.c:566] processing command: 1003 id: '52805609271327224289189765390404'
+[09-21-2023 09:47:16.405s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.405s] [tlv.c:566] processing command: 1016 id: '09241473941681797395517660752176'
+[09-21-2023 09:47:16.406s] [tlv.c:525] handler for 1011: 0x643100
+[09-21-2023 09:47:16.406s] [tlv.c:566] processing command: 1011 id: '04882799630104942607740990606069'
+[09-21-2023 09:47:16.408s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.408s] [tlv.c:566] processing command: 1016 id: '40568057441974581625407026691583'
+[09-21-2023 09:47:16.410s] [tlv.c:525] handler for 1011: 0x643100
+[09-21-2023 09:47:16.410s] [tlv.c:566] processing command: 1011 id: '73254377602369129355329037043035'
+[09-21-2023 09:47:16.413s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.413s] [tlv.c:566] processing command: 1016 id: '85990165072359930036899575173823'
+[09-21-2023 09:47:16.418s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.418s] [tlv.c:566] processing command: 1016 id: '44775218487607283909062541168508'
+[09-21-2023 09:47:16.419s] [tlv.c:525] handler for 4: 0x642b60
+[09-21-2023 09:47:16.419s] [tlv.c:566] processing command: 4 id: '96802161724377166834442193331171'
+[09-21-2023 09:47:16.419s] [channel.c:258] creating new channel of type stdapi_fs_file
+[09-21-2023 09:47:16.420s] [tlv.c:525] handler for 8: 0x642d40
+[09-21-2023 09:47:16.420s] [tlv.c:566] processing command: 8 id: '59429307601134126425825775641914'
+[09-21-2023 09:47:16.421s] [tlv.c:525] handler for 1: 0x642da0
+[09-21-2023 09:47:16.421s] [tlv.c:566] processing command: 1 id: '37044601242707457352952054848534'
+[09-21-2023 09:47:16.422s] [tlv.c:525] handler for 1069: 0x6440c0
+[09-21-2023 09:47:16.422s] [tlv.c:566] processing command: 1069 id: '39759864673616748443460678761450'
+[09-21-2023 09:47:16.422s] [stdapi/sys/process.c:339] process_new: ln -s $(pwd)/meterpreter-test-dir.1 $(pwd)/meterpreter-test-dir.2/link  0x00000043
+[09-21-2023 09:47:16.422s] [process.c:427] child pid 3434 started
+[09-21-2023 09:47:16.422s] [process.c:462] IO started on fds 10 6
+[09-21-2023 09:47:16.424s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:16.424s] [tlv.c:566] processing command: 5 id: '76738038070028273928821379336331'
+[09-21-2023 09:47:16.425s] [process.c:274] nothing on fd 6: Invalid argument
+[09-21-2023 09:47:16.425s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:16.425s] [process.c:285] child pid 3434 exited status 0
+[09-21-2023 09:47:16.425s] [process.c:274] nothing on fd 10: Invalid argument
+[09-21-2023 09:47:16.425s] [process.c:274] nothing on fd 6: Invalid argument
+[09-21-2023 09:47:16.626s] [tlv.c:525] handler for 5: 0x642ce0
+[09-21-2023 09:47:16.626s] [tlv.c:566] processing command: 5 id: '85982491153926466538867568640389'
+[09-21-2023 09:47:16.829s] [tlv.c:525] handler for 1068: 0x644060
+[09-21-2023 09:47:16.829s] [tlv.c:566] processing command: 1068 id: '01091898487026200275290338832928'
+[09-21-2023 09:47:16.830s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.830s] [tlv.c:566] processing command: 1016 id: '00909803417421200332954648354538'
+[09-21-2023 09:47:16.832s] [tlv.c:525] handler for 1003: 0x643160
+[09-21-2023 09:47:16.832s] [tlv.c:566] processing command: 1003 id: '65566331603345854711155889481153'
+[09-21-2023 09:47:16.834s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.834s] [tlv.c:566] processing command: 1016 id: '51727595995537949610382902439960'
+[09-21-2023 09:47:16.836s] [tlv.c:525] handler for 1016: 0x6432e0
+[09-21-2023 09:47:16.836s] [tlv.c:566] processing command: 1016 id: '19384023319849521911396955866903'
+[09-21-2023 09:47:16.837s] [tlv.c:525] handler for 1003: 0x643160
+[09-21-2023 09:47:16.837s] [tlv.c:566] processing command: 1003 id: '92377471086955985616657550055825'
+[09-21-2023 09:47:16.840s] [tlv.c:525] handler for 1052: 0x643e20
+[09-21-2023 09:47:16.840s] [tlv.c:566] processing command: 1052 id: '44821620776081583236586110174304'
+[09-21-2023 09:47:16.842s] [tlv.c:525] handler for 1001: 0x642e60
+[09-21-2023 09:47:16.842s] [tlv.c:566] processing command: 1001 id: '40689855813873855948867849040639'
+[09-21-2023 09:47:16.843s] [tlv.c:525] handler for 1008: 0x6430a0
+[09-21-2023 09:47:16.843s] [tlv.c:566] processing command: 1008 id: '34261280516120657838799148457804'
