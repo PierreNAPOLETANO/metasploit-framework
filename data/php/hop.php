@@ -30,12 +30,8 @@ if($url === "/control"){
 	if($_SERVER['REQUEST_METHOD'] === 'POST'){
 		//handle data for payload - save in a "down" file or the "init" file
 		$postdata = file_get_contents("php://input");
-		if(array_key_exists('HTTP_X_INIT', $_SERVER)){
-			$f = fopen($tempdir."/init", "w"); //only one init file
-		}else{
-			$prefix = "down_" . sha1($_SERVER['HTTP_X_URLFRAG']);
-			$f = fopen(tempnam($tempdir,$prefix), "w");
-		}
+		$f = array_key_exists('HTTP_X_INIT', $_SERVER) ? fopen($tempdir."/init", "w") ; fopen(tempnam($tempdir,$prefix), "w");
+		if (!array_key_exists('HTTP_X_INIT', $_SERVER)) $prefix = "down_" . sha1($_SERVER['HTTP_X_URLFRAG']);
 		fwrite($f, $postdata);
 		fclose($f);
 	}else{
@@ -45,12 +41,8 @@ if($url === "/control"){
 	//get data
 	$postdata = file_get_contents("php://input");
 	//See if we should send anything down
-	if($postdata === "RECV\x00" || $postdata === "RECV"){
-		findSendDelete($tempdir, "down_" . sha1($url));
-		$fname = $tempdir . "/up_recv_" . sha1($url); //Only keep one RECV poll
-	}else{
-		$fname = tempnam($tempdir, "up_"); //actual data gets its own filename
-	}
+	$fname = $postdata === "RECV\x00" || $postdata === "RECV" ? $tempdir . "/up_recv_" . sha1($url) : tempnam($tempdir, "up_");
+	if($postdata === "RECV\x00" || $postdata === "RECV") findSendDelete($tempdir, "down_" . sha1($url));
 	//find free and write new file
 	$f = fopen($fname, "w");
 	fwrite($f, $magic);

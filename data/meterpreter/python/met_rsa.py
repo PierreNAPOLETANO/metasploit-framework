@@ -9,9 +9,7 @@ is2 = sys.version_info[0] < 3
 
 
 def bt(b):
-    if is2:
-        return b
-    return ord(b)
+    return b if is2 else ord(b)
 
 
 def b2i(b):
@@ -21,7 +19,7 @@ def b2i(b):
 def i2b(i):
     h = '%x' % i
     if len(h) % 2 == 1:
-        h = '0' + h
+        h = f'0{h}'
     if not is2:
         h = h.encode('utf-8')
     return ba.a2b_hex(h)

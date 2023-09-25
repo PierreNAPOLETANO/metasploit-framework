@@ -13,7 +13,7 @@ def _cw(word):
 
 
 def _s2b(text):
-    return list(ord(c)for c in text)
+    return [ord(c) for c in text]
 
 
 def _b2s(binary):
@@ -24,9 +24,7 @@ if sys.version_info[0] >= 3:
     xrange = range
 
     def _s2b(text):
-        if isinstance(text, bytes):
-            return text
-        return [ord(c)for c in text]
+        return text if isinstance(text, bytes) else [ord(c)for c in text]
 
     def _b2s(binary):
         return bytes(binary)
